@@ -8,7 +8,7 @@ To chat with ANICKA 1.0, simply type in your message and hit enter. ANICKA will 
 
 To run ANICKA, execute the following command in your terminal:
 ```
-python main.py
+python app.py
 ```
 
 ## Dependencies
@@ -19,6 +19,7 @@ ANICKA 1.0 requires the following Python libraries to be installed:
   <li>tkinter</li>
 </ul>
 You can install the required dependencies using the following command:
+
 ```
 pip install -r requirements.txt
 ```
