@@ -1,7 +1,7 @@
 # ANICKA 1.0 : A Mini-Project Chatbot
 ANICKA is a simple chatbot project that utilizes Natural Language Processing (NLP) to converse with users. This project is written in Python and utilizes the nltk, torch and tkinter libraries.
 
-ANICKA 1.0 was developed by @chdkha2001, @Nachour-Ilham, and me as a school project in Python.
+ANICKA 1.0 was developed by [@chdkha2001](https://github.com/chdkha2001), [@Nachour-Ilham](https://github.com/Nachour-Ilham), and me as a school project in Python.
 
 ## Usage
 To chat with ANICKA 1.0, simply type in your message and hit enter. ANICKA will respond to your message using pre-built responses stored in the database. You can also train ANICKA to respond to new messages by adding more data to the database.
